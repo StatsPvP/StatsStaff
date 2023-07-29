@@ -1,0 +1,7 @@
+settings:
+  prefix: ' &e&l» &7'
+  debug: false
+
+staff-chat:
+  enabled: false
+  format: '&b[&eSC&b] &f%player_displayname% &e&l» &f{message}'

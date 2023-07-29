@@ -1,0 +1,8 @@
+name: StaffMode
+version: '${version}'
+main: me.thejokerdev.staffmode.Main
+api-version: 1.16
+depend:
+  - PlaceholderAPI
+  - OpenInv
+description: Staff mode plugin.
